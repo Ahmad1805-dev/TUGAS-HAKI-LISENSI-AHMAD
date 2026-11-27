@@ -25,7 +25,7 @@ layout, skema warna, dan ikon kustom).</dd>
 <li><b>Pernyataan Hak Cipta: Hak Cipta © 2026 oleh Ahmad Ismail Saputra. Seluruh hak 
 dilindungi undang-undang.</b></li>
 </ul>
-<mark>2. Merek (Trademark):</mark>
+2. <mark>Merek (Trademark):</mark>
 <br>
 <ul>
  <li>Nama Brand: Kasir Online</li> 
