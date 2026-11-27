@@ -34,7 +34,7 @@ terinspirasi dari identitas budaya Minangkabau. Bentuk tersebut menggambarkan
 identitas yang berkaitan dengan IndoKapau. Warna biru melambangkan 
 kepercayaan dan profesionalitas, sedangkan warna putih melambangkan 
 kesederhanaan dan kejelasan.</li>
-<li><img src="<img width="500" height="500" alt="Rumah Makan IndoKapau" src="https://github.com/user-attachments/assets/04fc6a00-2e44-446f-97c7-db87971c8077" /></img></li>
+<li><img width="200" height="200" alt="Rumah Makan IndoKapau" src="https://github.com/user-attachments/assets/04fc6a00-2e44-446f-97c7-db87971c8077" /></img></li>
 
 <li>Fungsi Perlindungan: Merek dan logo KapuPay berfungsi sebagai identitas 
 pembeda aplikasi agar mudah dikenali dan tidak disalahgunakan oleh pihak lain. 
@@ -43,7 +43,7 @@ yang berlaku.</li>
 </ul>
 <h1 align="center">MIT License</h1>
 
-<p align="center">Copyright (c) 2026 Ahmad Ismail Saputra</p>
+<p align="center">Copyright (c) 2026 Ahmad1805-dev</p>
 
 <em>Permission is hereby granted, free of charge, to any person obtaining a copy 
 of this software and associated documentation files (the "Software"), to deal 
